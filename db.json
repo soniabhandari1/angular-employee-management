@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "firstname": "sonia",
+      "lastname": "bhandari",
+      "birthday": "2023-01-30",
+      "gender": "f",
+      "education": "graduate",
+      "company": "tech",
+      "jobExperience": 2,
+      "salary": 34567,
+      "profile": "profile.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "dee",
+      "lastname": "psdf",
+      "birthday": "2023-01-29",
+      "gender": "m",
+      "company": "fgh",
+      "jobExperience": 34,
+      "salary": 123456,
+      "profile": "d66koz4-d3b5b6d2-5fdb-4fdd-8fd5-628c052a93c7.gif",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
